@@ -1,9 +1,12 @@
-## About Me
+# About Me
 
-Contact me: mingfan.lu@gmail.com
-You can call me: Frank Lu
+- Contact me: mingfan.lu@gmail.com
+- You can call me: Frank Lu
 
-### This page is about Machine Learning/Data Mining/AI on Cyber Security
+# About this page
+This page is about Machine Learning/Data Mining/AI on Cyber Security
+
+---
 
 # 基本认识
 - 机器学习不是解决安全问题的银弹
